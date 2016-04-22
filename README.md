@@ -1,2 +1,2 @@
 # hello-world
-just to creat firs project
+just to create first project
